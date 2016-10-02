@@ -1,7 +1,7 @@
 permalink: /publications/:title
 markdown: kramdown
 rdiscount extensions: [smart]
-url: http://reprogrammer.github.io
+url: https://reprogrammer.github.io
 url_ralph_e_johnson: http://en.wikipedia.org/wiki/Ralph_Johnson_%28computer_scientist%29
 url_stas_negara: http://web.engr.illinois.edu/~snegara2/
 url_samira_tasharofi: http://web.engr.illinois.edu/~tasharo1/
