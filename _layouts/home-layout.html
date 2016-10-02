@@ -21,7 +21,9 @@ layout: page-layout
   </header>
   <main class="mdl-layout__content">
     <div class="mdl-layout__tab-panels is-active" id="home">
-      {{content}}
+      <section class="section--center mdl-grid mdl-grid--no-spacing">
+          {{content}}
+      </section>
     </div>
   <footer class="mdl-mega-footer">
     Last Updated: {{ site.time | date: "%B %-d, %Y" }}
