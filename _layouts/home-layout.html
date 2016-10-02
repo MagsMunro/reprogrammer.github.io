@@ -1,0 +1,35 @@
+---
+layout: page-layout
+---
+
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
+    <div class="mdl-layout--large-screen-only mdl-layout__header-row">
+    </div>
+    <div class="mdl-layout--large-screen-only mdl-layout__header-row">
+      <h3>Mohsen Vakilian</h3>
+    </div>
+    <div class="mdl-layout--large-screen-only mdl-layout__header-row">
+    </div>
+    <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
+      <a href="{{site.url}}/" class="mdl-layout__tab is-active">Home</a>
+      <a href="{{site.url}}/publications" class="mdl-layout__tab">Publications</a>
+      <a href="{{site.url}}/software" class="mdl-layout__tab">Software</a>
+      <a href="{{site.url}}/service" class="mdl-layout__tab">Service</a>
+      <a href="{{site.url}}/talks" class="mdl-layout__tab">Talks</a>
+    </div>
+  </header>
+  <main class="mdl-layout__content">
+    <div class="mdl-layout__tab-panels is-active" id="home">
+      <section class="section--center mdl-grid mdl-grid--no-spacing">
+        <div class="mdl-cell mdl-cell--12-col">
+          {{content}}
+        </div>
+      </section>
+    </div>
+  <footer class="mdl-mega-footer">
+    Last Updated: {{ site.time | date: "%B %-d, %Y" }}
+  </footer>
+  </main>
+</div>
+

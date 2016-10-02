@@ -1,0 +1,26 @@
+permalink: /publications/:title
+markdown: kramdown
+rdiscount extensions: [smart]
+url: http://username.github.io
+url_ralph_e_johnson: http://en.wikipedia.org/wiki/Ralph_Johnson_%28computer_scientist%29
+url_stas_negara: http://web.engr.illinois.edu/~snegara2/
+url_samira_tasharofi: http://web.engr.illinois.edu/~tasharo1/
+url_roshanak_zilouchian_moghaddam: http://web.engr.illinois.edu/~rzilouc2/
+url_marjan_sirjani: http://www.ru.is/faculty/marjan/
+url_robert_l_bocchino_jr: http://www.rob-bocchino.net/
+url_vikram_s_adve: http://web.engr.illinois.edu/~vadve
+url_danny_dig: http://dig.cs.illinois.edu/
+url_sarita_v_adve: http://rsim.cs.illinois.edu/~sadve/
+url_rakesh_komuravelli: http://rsim.cs.illinois.edu/~komurav1/
+url_jeffrey_l_overbey: http://jeff.over.bz/
+url_hyojin_sung: http://rsim.cs.illinois.edu/~sung12/
+url_nicholas_chen: http://vazexqi.com/
+url_brian_p_bailey: https://wiki.engr.illinois.edu/display/orchid/Bailey
+url_vahab_mirrokni: http://research.google.com/pubs/mirrokni.html
+url_j_david_morgenthaler: http://research.google.com/pubs/author35758.html
+url_michael_d_ernst: http://homes.cs.washington.edu/~mernst/
+url_thomas_fritz: http://www.ifi.uzh.ch/seal/people/fritz.html
+url_kosta_damevski: http://damevski.github.io/
+url_david_shepherd: http://davidshepherd.weebly.com/
+url_lamyaa_eloussi: http://mir.cs.illinois.edu/lamyaa/
+url_emerson_murphy_hill: https://people.engr.ncsu.edu/ermurph3
