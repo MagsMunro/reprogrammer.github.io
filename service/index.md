@@ -7,6 +7,7 @@ title: Service | Mohsen Vakilian
 
 **Program Committee Member**  
 
+- [Communications of the ACM (CACM)](http://cacm.acm.org/)
 - [International Workshop on Bringing Architecture Design Thinking into
   Developers' Daily Activities (BRIDGE)](http://design.se.rit.edu/bridge/)
 
